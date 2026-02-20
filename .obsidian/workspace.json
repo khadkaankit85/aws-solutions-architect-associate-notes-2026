@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "b5df96025c85ae0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "42246f4d996f66ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714b5acdd149f3a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Solution Architect Associate Cert/Exam Preparation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam Preparation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "953b5799fff1246f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7e9cf063bbcc37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dd783561b504c54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6055594ec84bf50d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01e3d9e83e3b8eed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49df85af70cfd194",
+    "type": "split",
+    "children": [
+      {
+        "id": "2607c664f70900d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461621949c2e318b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "dd3dde49e3984722",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "d5934d45bed704e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f07f56aba7234c7d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "98dd1cc5c6a22962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "d8f6bfca7d41e8cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "1dd783561b504c54",
+  "lastOpenFiles": [
+    "AWS Solution Architect Associate Cert/Architectures.md",
+    "AWS Solution Architect Associate Cert/Exam Preparation.md",
+    "AWS Solution Architect Associate Cert/Other Services.md",
+    "AWS Solution Architect Associate Cert/More Concepts.md",
+    "AWS Solution Architect Associate Cert/Disaster Recovery & Migration.md",
+    "AWS Solution Architect Associate Cert/Networking & VPC.md",
+    "AWS Solution Architect Associate Cert/AWS Security & Encryption.md",
+    "AWS Solution Architect Associate Cert/IAM Advanced.md",
+    "AWS Solution Architect Associate Cert/Monitoring & Audit.md",
+    "AWS Solution Architect Associate Cert/Machine Learning.md",
+    "AWS Solution Architect Associate Cert/Data & Analytics.md",
+    "AWS Solution Architect Associate Cert/Serverless Overview — SAA.md",
+    "AWS Solution Architect Associate Cert/Containers on AWS - ECS, Fargate, ECR & EKS.md",
+    "AWS Solution Architect Associate Cert/SQS vs SNS vs Kinesis.md",
+    "AWS Solution Architect Associate Cert/Kinesis Data Streams & Firehose.md",
+    "AWS Solution Architect Associate Cert/SNS.md",
+    "AWS Solution Architect Associate Cert/SQS.md",
+    "AWS Solution Architect Associate Cert/AWS Storage Extra.md",
+    "AWS Solution Architect Associate Cert/AWS Global Accelerator.md",
+    "AWS Solution Architect Associate Cert/Amazon CloudFront.md",
+    "AWS Solution Architect Associate Cert/S3 Security.md",
+    "AWS Solution Architect Associate Cert/S3 Advanced.md",
+    "AWS Solution Architect Associate Cert/Amazon S3.md",
+    "AWS Solution Architect Associate Cert/Route 53.md",
+    "Templates/ElastiCache.md",
+    "AWS Solution Architect Associate Cert/RDS Advanced.md",
+    "attachments/Screenshot 2026-02-19 at 7.21.55 PM.png",
+    "attachments",
+    "Screenshot 2026-02-19 at 7.18.56 PM.png",
+    "Templates",
+    "AWS Solution Architect Associate Cert/Load Balancers",
+    "AWS Solution Architect Associate Cert",
+    "Flexera/Untitled",
+    "Flexera"
+  ]
+}
